@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Except
+!.gitignore
+!Makefile
+!src/
+!third_party/
+!README.md
