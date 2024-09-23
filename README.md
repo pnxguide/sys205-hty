@@ -240,6 +240,7 @@ https://www.cs.cmu.edu/afs/cs/academic/class/15213-f24/www/codeStyle.html
 
 ## FAQ
 Q: I cannot use `Makefile`.
+
 A: Please make sure that there is `bin/` directory or not.
 
 ## Grading
